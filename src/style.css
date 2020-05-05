@@ -1,0 +1,26 @@
+body{
+    background: #f0f2f5;
+    height: 100%;
+}
+
+.layout{
+    min-width: 1260px;
+    height: 100%;
+}
+
+.header{
+    background-color: #FFFFFF;
+    /*rgb(240,88,78)*/
+    border-bottom: 1px solid #999 ;
+    height: 70px;
+}
+
+.content{
+    min-height: 720px;
+    margin: 10px;
+}
+
+.footer{
+    text-align: center;
+    border-top: 1px solid #999 ;
+}
